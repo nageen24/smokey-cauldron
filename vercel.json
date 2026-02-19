@@ -1,0 +1,5 @@
+{
+  "installCommand": "cd smokey-cauldron-site && npm ci",
+  "buildCommand": "cd smokey-cauldron-site && npm run build",
+  "outputDirectory": "smokey-cauldron-site/dist"
+}

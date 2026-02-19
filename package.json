@@ -1,0 +1,8 @@
+{
+  "name": "smokey-cauldron",
+  "private": true,
+  "description": "The Smokey Cauldron - app in smokey-cauldron-site/",
+  "scripts": {
+    "build": "cd smokey-cauldron-site && npm ci && npm run build"
+  }
+}
