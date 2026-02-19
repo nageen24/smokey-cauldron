@@ -1,0 +1,417 @@
+{
+  "lastUpdatedISO": "2026-02-18T12:14:36.285Z",
+  "items": [
+    {
+      "name": "Molly’s Wings Platters",
+      "price": "PKR 1399"
+    },
+    {
+      "name": "Dynamite Chicken",
+      "price": "PKR 999"
+    },
+    {
+      "name": "Bar. B. Q Wings",
+      "price": "PKR 799"
+    },
+    {
+      "name": "Chilli Chicken Fingers",
+      "price": "PKR 999"
+    },
+    {
+      "name": "Chicken Fingers",
+      "price": "PKR 875"
+    },
+    {
+      "name": "Loaded Fries",
+      "price": "PKR 799"
+    },
+    {
+      "name": "Buffalo Wings",
+      "price": "PKR 799"
+    },
+    {
+      "name": "Plain Fries",
+      "price": "PKR 499"
+    },
+    {
+      "name": "Tender Fries",
+      "price": "PKR 899"
+    },
+    {
+      "name": "Supreme Nachos",
+      "price": "PKR 899"
+    },
+    {
+      "name": "Chicken Finger with Fries",
+      "price": "PKR 749"
+    },
+    {
+      "name": "Fish Finger with Fries",
+      "price": "PKR 1099"
+    },
+    {
+      "name": "Chicken Fried Burger with Fries",
+      "price": "PKR 799"
+    },
+    {
+      "name": "Cream of Mushroom & Chicken",
+      "price": "PKR 699"
+    },
+    {
+      "name": "Hot & Sour Soup",
+      "price": "PKR 549"
+    },
+    {
+      "name": "Chicken Corn Soup",
+      "price": "PKR 549"
+    },
+    {
+      "name": "Thai Chicken Soup",
+      "price": "PKR 499"
+    },
+    {
+      "name": "Caesar Salad",
+      "price": "PKR 999"
+    },
+    {
+      "name": "Thai Beef Salad",
+      "price": "PKR 1299"
+    },
+    {
+      "name": "Mushroom & Chicken",
+      "price": "PKR 1199"
+    },
+    {
+      "name": "Olive Aboard",
+      "price": "PKR 1199"
+    },
+    {
+      "name": "Beef Panini",
+      "price": "PKR 1299"
+    },
+    {
+      "name": "The Horntail",
+      "price": "PKR 2049"
+    },
+    {
+      "name": "The Shrieking",
+      "price": "PKR 2049"
+    },
+    {
+      "name": "The Carne Asada (Specially for Beef Lover)",
+      "price": "PKR 2049"
+    },
+    {
+      "name": "The Sectumsempra",
+      "price": "PKR 2049"
+    },
+    {
+      "name": "The Half-Blood",
+      "price": "PKR 2049"
+    },
+    {
+      "name": "Twin Steak",
+      "price": "PKR 2049"
+    },
+    {
+      "name": "The Mexican Steak",
+      "price": "PKR 2049"
+    },
+    {
+      "name": "The Steak Bites (Best in Town)",
+      "price": "PKR 2049"
+    },
+    {
+      "name": "The T-Bone Steak",
+      "price": "PKR 2049"
+    },
+    {
+      "name": "Tarragon Beef Steak",
+      "price": "PKR 2049"
+    },
+    {
+      "name": "Kreacher’s Special",
+      "price": "PKR 1099"
+    },
+    {
+      "name": "Dark Arts",
+      "price": "PKR 1299"
+    },
+    {
+      "name": "Muggle’s Choice",
+      "price": "PKR 1099"
+    },
+    {
+      "name": "Classic Beef Burger",
+      "price": "PKR 1249"
+    },
+    {
+      "name": "Dobby’s Delight",
+      "price": "PKR 1149"
+    },
+    {
+      "name": "Classic Beef Single Patty",
+      "price": "PKR 999"
+    },
+    {
+      "name": "Godric’s Hollowed",
+      "price": "PKR 999"
+    },
+    {
+      "name": "Dark Arts",
+      "price": "PKR 1149"
+    },
+    {
+      "name": "Kreacher’s Special",
+      "price": "PKR 999"
+    },
+    {
+      "name": "Dragonfire Burger",
+      "price": "PKR 949"
+    },
+    {
+      "name": "Dobby Delight",
+      "price": "PKR 999"
+    },
+    {
+      "name": "Weasley Feast",
+      "price": "PKR 1049"
+    },
+    {
+      "name": "Chicken Parmesan",
+      "price": "PKR 1749"
+    },
+    {
+      "name": "Chicken Bleu",
+      "price": "PKR 1749"
+    },
+    {
+      "name": "Chicken Handi",
+      "price": "PKR 1699"
+    },
+    {
+      "name": "Murgh Makhni Handi",
+      "price": "PKR 1699"
+    },
+    {
+      "name": "Masala Beef Handi",
+      "price": "PKR 1899"
+    },
+    {
+      "name": "Mint Sauce/Fresh Salad",
+      "price": "PKR 299"
+    },
+    {
+      "name": "Roghani Naan",
+      "price": "PKR 150"
+    },
+    {
+      "name": "The Horntail",
+      "price": "PKR 1599"
+    },
+    {
+      "name": "The Shrieking",
+      "price": "PKR 1599"
+    },
+    {
+      "name": "Tarragon Chicken",
+      "price": "PKR 1599"
+    },
+    {
+      "name": "The Sectumsempra",
+      "price": "PKR 1599"
+    },
+    {
+      "name": "The Half-Blood",
+      "price": "PKR 1599"
+    },
+    {
+      "name": "Moroccan Chicken",
+      "price": "PKR 1599"
+    },
+    {
+      "name": "Mexican Chicken",
+      "price": "PKR 1599"
+    },
+    {
+      "name": "The Buttered Mermaid",
+      "price": "PKR 1999"
+    },
+    {
+      "name": "Classic Fish & Chips",
+      "price": "PKR 1749"
+    },
+    {
+      "name": "Red Chilli Fish",
+      "price": "PKR 1749"
+    },
+    {
+      "name": "Fish Fingers",
+      "price": "PKR 1249"
+    },
+    {
+      "name": "The Lemon Buttered Mermaids",
+      "price": "PKR 2099"
+    },
+    {
+      "name": "Kung Pao Chicken",
+      "price": "PKR 1199"
+    },
+    {
+      "name": "Mongolian Chicken",
+      "price": "PKR 1199"
+    },
+    {
+      "name": "Chicken Chowmein",
+      "price": "PKR 1049"
+    },
+    {
+      "name": "Cashew Nut Chicken",
+      "price": "PKR 1149"
+    },
+    {
+      "name": "Chicken Dry Chilli",
+      "price": "PKR 1149"
+    },
+    {
+      "name": "Sichuan Chicken",
+      "price": "PKR 1149"
+    },
+    {
+      "name": "Kung Pao Beef",
+      "price": "PKR 1549"
+    },
+    {
+      "name": "Beef Chilli Dry",
+      "price": "PKR 1499"
+    },
+    {
+      "name": "Beef Chowmein",
+      "price": "PKR 1149"
+    },
+    {
+      "name": "Mongolian Beef",
+      "price": "PKR 1549"
+    },
+    {
+      "name": "Sichuan Beef",
+      "price": "PKR 1549"
+    },
+    {
+      "name": "Cashew Nut Beef",
+      "price": "PKR 1549"
+    },
+    {
+      "name": "Wild Mushroom",
+      "price": "PKR 1299"
+    },
+    {
+      "name": "Sprouts Spicy Chicken",
+      "price": "PKR 1349"
+    },
+    {
+      "name": "Devil’s Snare",
+      "price": "PKR 1199"
+    },
+    {
+      "name": "Fluffy’s Pasta",
+      "price": "PKR 1349"
+    },
+    {
+      "name": "House Pasta",
+      "price": "PKR 1299"
+    },
+    {
+      "name": "Butterbrew",
+      "price": "PKR 619"
+    },
+    {
+      "name": "Tongue Twister",
+      "price": "PKR 599"
+    },
+    {
+      "name": "Amortentia",
+      "price": "PKR 599"
+    },
+    {
+      "name": "Felix Felicis",
+      "price": "PKR 599"
+    },
+    {
+      "name": "Unicorn Blood",
+      "price": "PKR 619"
+    },
+    {
+      "name": "Dragon Milk",
+      "price": "PKR 619"
+    },
+    {
+      "name": "The Red-Lion",
+      "price": "PKR 519"
+    },
+    {
+      "name": "Snakebite",
+      "price": "PKR 519"
+    },
+    {
+      "name": "Badger-Blast",
+      "price": "PKR 519"
+    },
+    {
+      "name": "Rapture",
+      "price": "PKR 519"
+    },
+    {
+      "name": "The Goblet of Fire",
+      "price": "PKR 475"
+    },
+    {
+      "name": "Fishy Green",
+      "price": "PKR 475"
+    },
+    {
+      "name": "Exploding Lemonade",
+      "price": "PKR 475"
+    },
+    {
+      "name": "Monday"
+    },
+    {
+      "name": "Tuesday"
+    },
+    {
+      "name": "Wednesday"
+    },
+    {
+      "name": "Thursday"
+    },
+    {
+      "name": "Friday"
+    },
+    {
+      "name": "Saturday"
+    },
+    {
+      "name": "Sunday"
+    },
+    {"name": "Café Latte", "price": "PKR 699", "category": "coffee"},
+    {"name": "Vanilla Latte", "price": "PKR 749", "category": "coffee"},
+    {"name": "Mocha Latte", "price": "PKR 799", "category": "coffee"},
+    {"name": "Cappuccino", "price": "PKR 699", "category": "coffee"},
+    {"name": "Nutty Irish Cream", "price": "PKR 749", "category": "coffee"},
+    {"name": "Expresso Shots", "price": "PKR 599", "category": "coffee"},
+    {"name": "Hazelnut Latte", "price": "PKR 849", "category": "coffee"},
+    {"name": "Caramel Mocha", "price": "PKR 849", "category": "coffee"},
+    {"name": "Americano", "price": "PKR 599", "category": "coffee"},
+    {"name": "Caramel Cold Coffee", "price": "PKR 849", "category": "chillers"},
+    {"name": "Hazelnut Cold Coffee", "price": "PKR 899", "category": "chillers"},
+    {"name": "Vanilla Cold Coffee", "price": "PKR 899", "category": "chillers"},
+    {"name": "Oreo Chocolate Coffee", "price": "PKR 899", "category": "chillers"},
+    {"name": "Mixed Tea", "price": "PKR 349", "category": "tea"},
+    {"name": "Green Tea", "price": "PKR 199", "category": "tea"},
+    {"name": "Iced Tea", "price": "PKR 649", "category": "tea"},
+    {"name": "Lotus Cheesecake", "price": "PKR 799", "note": "A slice of the most delicious cheesecake with a choice of mango or strawberry topping", "category": "desserts"},
+    {"name": "The Forbidden Cake", "price": "PKR 799", "note": "A slice of chocolate mud cake to end your dieting marathon on a succulent note", "category": "desserts"},
+    {"name": "Chocolate Brownie", "price": "PKR 699", "note": "House special dessert", "category": "desserts"}
+  ]
+}
