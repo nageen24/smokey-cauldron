@@ -6,7 +6,6 @@ import {
   Mail,
   MapPin,
   Phone,
-  Utensils,
 } from 'lucide-react'
 import { Container } from './Container'
 import { GOOGLE_MAPS_URL, INSTAGRAM_USERNAME } from '../data/defaults'
